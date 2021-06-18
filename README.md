@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @wildme
+- 👋 Hi, My name is Konstantin
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on projects using JavaScript and React
