@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on projects using JavaScript and React
-- 📫 How to reach me: @prtscrin
+- 📫 How to reach me: telegram: @rumate
 
 <!---
 wildme/wildme is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
