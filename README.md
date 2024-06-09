@@ -1,7 +1,7 @@
 - 👋 Hi, My name is Konstantin
 - 👀 I’m interested in programming
-- 💞️ I’m looking to collaborate on projects using React, Node.js, Java
-- 📫 How to reach me: X: @rumate87
+- 💞️ I’m looking to collaborate on projects using React, JavaScript, Java
+- 📫 How to reach me: @rumate87
 
 <!---
 wildme/wildme is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
